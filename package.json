@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/BuildingConnected/interviews",
   "dependencies": {
-    "bluebird": "^3.5.1",
-    "faker": "^4.1.0",
-    "lodash": "^4.17.4"
+    "Faker": "~0.7.0",
+    "bluebird": "^3.4.1",
+    "lodash": "^4.13.1"
   },
   "devDependencies": {
     "ava": "^0.15.2"
